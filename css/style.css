@@ -16,3 +16,7 @@ body {
 header {
     background-color: #123456;
 }
+
+footer {
+    background-color: yellow;
+}
