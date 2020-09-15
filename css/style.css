@@ -17,6 +17,9 @@ header {
     background-color: #123456;
 }
 
+section {
+    background-color: orange;
+}
+
 footer {
     background-color: yellow;
-}
